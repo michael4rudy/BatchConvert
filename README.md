@@ -12,6 +12,7 @@
 
 ## General Purpose
 - Converts .xlsx file types to .csv for programs that process unicode encoded files. 
+- Portability allows users to process directories/subdirectories by simply copying and pasting.
 
 ## Futher Build
 - Create function to decode ANSCI .txt files 
