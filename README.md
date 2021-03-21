@@ -15,6 +15,11 @@
 - Converts .xlsx file types to .csv for programs that process unicode encoded files. 
 - Portability allows users to process excel files by simply copying and pasting Excel2CSV into directories.
 
+## Encountering Errors
+<img width="530" alt="Screen Shot 2021-03-21 at 2 56 09 PM" src="https://user-images.githubusercontent.com/80732776/111917290-94e7bb00-8a55-11eb-80bd-5897dda2f020.png">
+- If interpreter encounters an exception, it checks the except blocks associated with that try block.
+- Wrote three except blocks for errors that I found while testing on both WindowsOS and MacOS -- (e.g. corrupted files / encoding errors)
+
 ## DEMO
 
 - Copy and paste Excel2CSV-main into any directory. Script will walk through each folder and scan for files that end with '.xlsx'
