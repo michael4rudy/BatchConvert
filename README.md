@@ -15,6 +15,12 @@
 - Converts .xlsx file types to .csv for programs that process unicode encoded files. 
 - Portability allows users to process excel files by simply copying and pasting Excel2CSV into directories.
 
+## Excel vs CSV File Content Visual
+![Screen Shot 2021-03-22 at 11 23 15 PM](https://user-images.githubusercontent.com/80732776/112088117-956f7700-8b65-11eb-9bcd-65aa401df4ac.png)
+
+![Screen Shot 2021-03-22 at 11 24 46 PM](https://user-images.githubusercontent.com/80732776/112088216-cbacf680-8b65-11eb-99fa-d815494ead5a.png)
+
+
 ## Encountering Error Messages
 <img width="530" alt="Screen Shot 2021-03-21 at 2 56 09 PM" src="https://user-images.githubusercontent.com/80732776/111917290-94e7bb00-8a55-11eb-80bd-5897dda2f020.png">
 
